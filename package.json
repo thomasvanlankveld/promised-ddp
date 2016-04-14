@@ -1,0 +1,26 @@
+{
+  "name": "promised-ddp",
+  "version": "0.1.0",
+  "description": "Promise based node ddp client wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasvanlankveld/promised-ddp.git"
+  },
+  "keywords": [
+    "ddp",
+    "promise",
+    "meteor",
+    "node",
+    "javascript"
+  ],
+  "author": "Thomas van Lankveld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasvanlankveld/promised-ddp/issues"
+  },
+  "homepage": "https://github.com/thomasvanlankveld/promised-ddp#readme"
+}
